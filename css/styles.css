@@ -1,0 +1,20 @@
+body {
+  background-color: #cccccc;
+}
+
+.snakes {
+  background-color: #7C7D36;
+}
+
+.turtles {
+  background-color: #597D36;
+}
+
+.insects {
+  background-color: #7C7D36;
+}
+.outro {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #eee
+}
