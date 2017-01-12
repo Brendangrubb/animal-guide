@@ -16,7 +16,7 @@ img {
 }
 
 .insect-pic {
-  border: 3px solid #7C7D36;
+  border: 3px solid #367D37;
 }
 
 .btn-center {
@@ -34,12 +34,14 @@ img {
 }
 
 .insects {
-  background-color: #7C7D36;
+  background-color: #367D37;
   display: none;
 }
+
 .outro {
-  padding-left: 50px;
-  padding-right: 50px;
+  position: fixed;
+  bottom: 0;
+  margin-right: 115px;
   background-color: #eee;
   display: none;
 }
