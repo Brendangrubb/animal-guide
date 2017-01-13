@@ -45,9 +45,9 @@ img {
 .outro {
   position: fixed;
   bottom: 0;
-  margin-right: 115px;
   background-color: #eee;
   display: none;
+  margin-right: 35px; 
 }
 
 .select-box {
